@@ -1,3 +1,5 @@
 /tmp/
 /build/
 .sass-cache/
+.idea/*
+*.iml
